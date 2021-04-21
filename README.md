@@ -7,6 +7,6 @@ Hi, I'm fly.
 - Problem-solving-addict,
 - Inquirer of the world.
 
-- Languages I play around with:
-Python, Lua, C, JavaScript + HTML/CSS.
+Languages I play around with:
+- Python, Lua, C, JavaScript + HTML/CSS.
 - Learning: C++ and Java.
