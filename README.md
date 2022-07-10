@@ -7,6 +7,5 @@ Hi, I'm fly.
 
 - 🐱‍🐉 I like challenging things (sometimes)
 - 🐱‍💻 CS Student [@TUM](https://www.tum.de/)
-- 🐱‍👓 Only ocasionally use github
-- 🐱‍👤 I mess around with Python, Lua, Java, and Javascript
+- 🐱‍👤 Learning: Python, Lua, Java, Javascript, C, OCaml, x86 ASM
 - 🐱‍🏍 i like cats
